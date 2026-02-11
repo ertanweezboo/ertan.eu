@@ -1,0 +1,212 @@
+{
+    "en": {
+        "experience": [
+            {
+                "company": "Team ITG",
+                "role": "Frontend Developer",
+                "period": "Jul 2022 - Present",
+                "desc": "Leading frontend development for Jaguar Land Rover's high-traffic global projects. Migrated global sites to AEM, developed the 'Build Your Vehicle' configurator using React/Redux/TypeScript, and architecting the new Jaguar platform with a focus on performance, accessibility, and unit testing."
+            },
+            {
+                "company": "STech Technology",
+                "role": "Frontend Developer",
+                "period": "Aug 2017 - Jul 2022",
+                "desc": "Developed diverse web and mobile platforms using Next.js, Gatsby, GraphQL, and Redux. Key contributor to spacecasino.co.uk and implemented robust testing workflows using Jest, Enzyme, and Cypress."
+            },
+            {
+                "company": "TEB (BNP Paribas)",
+                "role": "Frontend Developer",
+                "period": "Sep 2013 - Jul 2017",
+                "desc": "Engineered mobile, web, and ATM UI projects. Authored official Style Guide documentation and conducted Usability & UX training sessions for internal IT teams."
+            },
+            {
+                "company": "Garanti BBVA Teknoloji",
+                "role": "UX/UI Designer & Frontend Developer",
+                "period": "May 2007 - Sep 2013",
+                "desc": "Six-year tenure delivering UX/UI design and implementation for core banking applications, mobile platforms, and ATM interfaces."
+            }
+        ],
+        "skillCategories": [
+            {
+                "id": "core",
+                "title": "Core Frontend Engineering",
+                "metaphor": "This area is your 'engine'. Optimized, reliable and powerful over the years.",
+                "skills": [
+                    "JavaScript (ES6+)",
+                    "TypeScript",
+                    "React (Hooks, Architecture)",
+                    "Redux",
+                    "Next.js",
+                    "HTML5 & CSS3",
+                    "SCSS / SASS",
+                    "Styled Components",
+                    "Responsive Design"
+                ]
+            },
+            {
+                "id": "enterprise",
+                "title": "Enterprise & CMS Experience",
+                "metaphor": "Translator between frontend and enterprise backend.",
+                "skills": [
+                    "Adobe Experience Manager (AEM)",
+                    "CMS-based Frontend",
+                    "Component Integration",
+                    "Content-driven UI",
+                    "Enterprise Migration"
+                ]
+            },
+            {
+                "id": "quality",
+                "title": "Quality & Reliability",
+                "metaphor": "Autopilot + Safety Belt.",
+                "skills": [
+                    "Unit Testing",
+                    "Jest",
+                    "Enzyme",
+                    "Cypress (E2E)",
+                    "Storybook"
+                ]
+            },
+            {
+                "id": "data",
+                "title": "API & Data Interaction",
+                "metaphor": "Complex data-driven interfaces.",
+                "skills": [
+                    "REST APIs",
+                    "GraphQL",
+                    "Async Data Handling",
+                    "Complex State Logic"
+                ]
+            },
+            {
+                "id": "design",
+                "title": "UI / UX & Design Engineering",
+                "metaphor": "Both the architect and the civil engineer.",
+                "skills": [
+                    "UI/UX Design Background",
+                    "Design Systems",
+                    "Accessibility (a11y)",
+                    "Web Standards",
+                    "Sketch / Zeplin",
+                    "User-Centered Design"
+                ]
+            },
+            {
+                "id": "ai-perspective",
+                "title": "AI Era Perspective",
+                "metaphor": "Future-ready frontend development.",
+                "skills": [
+                    "AI-Assisted Development",
+                    "Copilot / ChatGPT Workflow",
+                    "AI-powered UX Patterns",
+                    "Automated a11y checks"
+                ]
+            }
+        ]
+    },
+    "tr": {
+        "experience": [
+            {
+                "company": "Team ITG",
+                "role": "Frontend Geliştirici",
+                "period": "Tem 2022 - Günümüz",
+                "desc": "Jaguar Land Rover bünyesinde yüksek trafikli küresel projelerin frontend geliştirmesine liderlik ediyorum. Global sitelerin AEM'e geçişi, React/Redux/TypeScript ile 'Build Your Vehicle' konfigüratör geliştirilmesi ve yeni Jaguar platformunun performans ve erişilebilirlik odaklı mimarisi üzerine çalışıyorum."
+            },
+            {
+                "company": "STech Technology",
+                "role": "Frontend Geliştirici",
+                "period": "Ağu 2017 - Tem 2022",
+                "desc": "Next.js, Gatsby, GraphQL ve Redux kullanarak web ve mobil uygulamalar geliştirdim. Spacecasino.co.uk projesinde kilit rol oynadım ve Jest/Cypress ile test otomasyon süreçlerini yönettim."
+            },
+            {
+                "company": "TEB (BNP Paribas)",
+                "role": "Frontend Geliştirici",
+                "period": "Eyl 2013 - Tem 2017",
+                "desc": "Mobil, web ve ATM arayüz projelerini geliştirdim. Resmi Style Guide dokümantasyonunu hazırladım ve BT ekiplerine UX/Kullanılabilirlik eğitimleri verdim."
+            },
+            {
+                "company": "Garanti BBVA Teknoloji",
+                "role": "UX/UI Tasarımcı & Frontend Geliştirici",
+                "period": "May 2007 - Eyl 2013",
+                "desc": "Bireysel bankacılık, mobil platformlar ve ATM arayüzleri için UX/UI tasarım ve frontend geliştirme alanlarında altı yıllık deneyim."
+            }
+        ],
+        "skillCategories": [
+            {
+                "id": "core",
+                "title": "Çekirdek Frontend Mühendisliği",
+                "metaphor": "Bu alan senin 'motorun'. Yıllar içinde optimize edilmiş, güvenilir ve güçlü.",
+                "skills": [
+                    "JavaScript (ES6+)",
+                    "TypeScript",
+                    "React (Hooks, Mimari)",
+                    "Redux",
+                    "Next.js",
+                    "HTML5 & CSS3",
+                    "SCSS / SASS",
+                    "Styled Components",
+                    "Responsive Tasarım"
+                ]
+            },
+            {
+                "id": "enterprise",
+                "title": "Kurumsal Platform Deneyimi",
+                "metaphor": "Frontend ile kurumsal backend arasındaki çevirmen.",
+                "skills": [
+                    "Adobe Experience Manager (AEM)",
+                    "CMS Tabanlı Frontend",
+                    "Bileşen Entegrasyonu",
+                    "İçerik Odaklı UI",
+                    "Kurumsal Migrasyon"
+                ]
+            },
+            {
+                "id": "quality",
+                "title": "Kalite ve Güvenilirlik",
+                "metaphor": "Otomatik pilot + güvenlik kemeri.",
+                "skills": [
+                    "Unit Testing",
+                    "Jest",
+                    "Enzyme",
+                    "Cypress (E2E)",
+                    "Storybook"
+                ]
+            },
+            {
+                "id": "data",
+                "title": "API ve Veri Etkileşimi",
+                "metaphor": "Karmaşık veri odaklı arayüzler.",
+                "skills": [
+                    "REST APIs",
+                    "GraphQL",
+                    "Async Veri Yönetimi",
+                    "Karmaşık State Mantığı"
+                ]
+            },
+            {
+                "id": "design",
+                "title": "UI / UX ve Tasarım Mühendisliği",
+                "metaphor": "Hem mimar hem de inşaat mühendisi.",
+                "skills": [
+                    "UI/UX Tasarım Geçmişi",
+                    "Tasarım Sistemleri & Kılavuzlar",
+                    "Erişilebilirlik (a11y)",
+                    "Web Standartları",
+                    "Sketch / Zeplin",
+                    "Kullanıcı Odaklı Tasarım"
+                ]
+            },
+            {
+                "id": "ai-perspective",
+                "title": "AI Çağı Perspektifi",
+                "metaphor": "Geleceğe hazır frontend geliştirme.",
+                "skills": [
+                    "AI Destekli Geliştirme",
+                    "Copilot / ChatGPT İş Akışları",
+                    "AI Destekli UX Kalıpları",
+                    "Otomatik a11y Kontrolleri"
+                ]
+            }
+        ]
+    }
+}

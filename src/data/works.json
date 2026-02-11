@@ -1,0 +1,126 @@
+{
+    "en": [
+        {
+            "id": "chalga-party",
+            "title": "ChalgaParty",
+            "category": "Web Application",
+            "description": "A modern platform designed to discover and share local events like music, dance, and festivals.",
+            "role": "Product Owner and Developer",
+            "timeline": "2025 - Present",
+            "techStack": "Next.js, TypeScript, Mantine UI",
+            "link": "https://www.chalgaparty.com/",
+            "image": "/images/chalga.jpg",
+            "color": "#FD7E14"
+        },
+        {
+            "id": "bulgaristan-gundem",
+            "title": "Bulgaristan Gündem",
+            "category": "AI News Portal",
+            "description": "An AI-powered news platform that automatically aggregates, translates, and summarizes Bulgarian news for Turkish speakers.",
+            "role": "Software Architect and Developer",
+            "timeline": "2024 - Present",
+            "techStack": "Next.js, TypeScript, AI/LLM, Vercel",
+            "link": "https://bulgaristan-gundem.vercel.app/",
+            "image": "/images/bulgaristan_gundem.jpg",
+            "color": "#1a365d"
+        },
+        {
+            "id": "land-rover-configurator",
+            "title": "Land Rover Configurator",
+            "category": "Automotive Configurator",
+            "description": "High-end 3D vehicle customization tool for global markets.",
+            "role": "Frontend Developer (Development & Maintenance)",
+            "timeline": "2023 - 2024",
+            "techStack": "React, Redux, WebGL, Micro-frontends",
+            "link": "https://buildyour.landrover.co.uk/lr/en_gb/l560_k26/4co9v/a-l560_a-swb/ipr/personalise/model/",
+            "image": "/images/land_rover.png",
+            "color": "#000000"
+        },
+        {
+            "id": "space-casino",
+            "title": "SpaceCasino",
+            "category": "iGaming Platform",
+            "description": "A modern and futuristic online gaming platform with a focus on user experience and real-time interactions.",
+            "role": "Frontend Developer",
+            "timeline": "2021 - 2022",
+            "techStack": "React, TypeScript, Redux, Styled Components",
+            "link": "https://www.spacecasino.com/",
+            "image": "/images/spacecasino.png",
+            "color": "#7B2CBF"
+        },
+        {
+            "id": "medicus-turkey",
+            "title": "MEDICUS Staufen",
+            "category": "Medical Platform",
+            "description": "A specialized career platform connecting Turkish healthcare professionals with premier medical opportunities in Germany.",
+            "role": "Full Stack Developer",
+            "timeline": "2024",
+            "techStack": "Next.js, TypeScript, GraphQL, CMS, Tailwind CSS, Vercel",
+            "link": "https://medicus-turkey.vercel.app/",
+            "image": "/images/medicus_turkey.jpg",
+            "color": "#0D9488"
+        }
+    ],
+    "tr": [
+        {
+            "id": "chalga-party",
+            "title": "ChalgaParty",
+            "category": "Web Uygulaması",
+            "description": "Müzik, dans ve festival odaklı yerel etkinlikleri keşfetme ve paylaşma platformu.",
+            "role": "Ürün Sahibi ve Geliştirici",
+            "timeline": "2024 - Günümüz",
+            "techStack": "Next.js, TypeScript, Mantine UI",
+            "link": "https://www.chalgaparty.com/tr",
+            "image": "/images/chalga.jpg",
+            "color": "#FD7E14"
+        },
+        {
+            "id": "bulgaristan-gundem",
+            "title": "Bulgaristan Gündem",
+            "category": "AI Haber Portalı",
+            "description": "Bulgaristan kaynaklı haberleri Türkçeye otomatik çeviren, özetleyen ve seslendiren yapay zeka destekli haber portalı.",
+            "role": "Yazılım Mimarı ve Geliştirici",
+            "timeline": "2024 - Günümüz",
+            "techStack": "Next.js, TypeScript, AI/LLM, Vercel",
+            "link": "https://bulgaristan-gundem.vercel.app/",
+            "image": "/images/bulgaristan_gundem.jpg",
+            "color": "#1a365d"
+        },
+        {
+            "id": "land-rover-configurator",
+            "title": "Land Rover Konfigüratör",
+            "category": "Otomotiv Konfigüratör",
+            "description": "Küresel pazarlar için üst segment 3D araç özelleştirme aracı.",
+            "role": "Frontend Geliştirici (Geliştirme ve Bakım)",
+            "timeline": "2023 - 2024",
+            "techStack": "React, Redux, WebGL, Micro-frontends",
+            "link": "https://buildyour.landrover.co.uk/lr/en_gb/l560_k26/4co9v/a-l560_a-swb/ipr/personalise/model/",
+            "image": "/images/land_rover.png",
+            "color": "#000000"
+        },
+        {
+            "id": "space-casino",
+            "title": "SpaceCasino",
+            "category": "iGaming Platformu",
+            "description": "Kullanıcı deneyimi ve gerçek zamanlı etkileşimlere odaklanan modern ve fütüristik bir online oyun platformu.",
+            "role": "Frontend Geliştirici",
+            "timeline": "2021 - 2022",
+            "techStack": "React, TypeScript, Redux, Styled Components",
+            "link": "https://www.spacecasino.com/",
+            "image": "/images/spacecasino.png",
+            "color": "#7B2CBF"
+        },
+        {
+            "id": "medicus-turkey",
+            "title": "MEDICUS Staufen",
+            "category": "Sağlık Platformu",
+            "description": "Türk sağlık profesyonellerini Almanya'daki seçkin kariyer fırsatlarıyla buluşturan uzmanlaşmış bir kariyer platformu.",
+            "role": "Full Stack Geliştirici",
+            "timeline": "2024",
+            "techStack": "Next.js, TypeScript, GraphQL, CMS, Tailwind CSS, Vercel",
+            "link": "https://medicus-turkey.vercel.app/",
+            "image": "/images/medicus_turkey.jpg",
+            "color": "#0D9488"
+        }
+    ]
+}

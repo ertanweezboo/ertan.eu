@@ -1,66 +1,52 @@
-import Image from "next/image";
-import styles from "./page.module.css";
+'use client';
+
+import Navbar from '@/components/Navbar/Navbar';
+import Hero from '@/components/Hero/Hero';
+import Works from '@/components/Works/Works';
+import Experience, { Skills } from '@/components/About/About';
+import Container from '@/components/UI/Container/Container';
+import { useLanguage } from '@/context/LanguageContext';
 
 export default function Home() {
+  const { t } = useLanguage();
+
   return (
-    <div className={styles.page}>
-      <main className={styles.main}>
-        <Image
-          className={styles.logo}
-          src="/next.svg"
-          alt="Next.js logo"
-          width={100}
-          height={20}
-          priority
-        />
-        <div className={styles.intro}>
-          <h1>To get started, edit the page.tsx file.</h1>
-          <p>
-            Looking for a starting point or more instructions? Head over to{" "}
-            <a
-              href="https://vercel.com/templates?framework=next.js&utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              Templates
-            </a>{" "}
-            or the{" "}
-            <a
-              href="https://nextjs.org/learn?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              Learning
-            </a>{" "}
-            center.
+    <main>
+      <Navbar />
+      <Hero />
+      <Works />
+      <Experience />
+      <Skills />
+
+      {/* Contact Section */}
+      <section id="contact" className="section" style={{ background: 'var(--muted)', padding: '8rem 0' }}>
+        <Container>
+          <div style={{ textAlign: 'center' }}>
+            <h2 style={{ marginBottom: '1rem', fontSize: '3rem', letterSpacing: '-0.04em' }}>
+              {t('contact.title')}
+            </h2>
+            <p style={{ maxWidth: '600px', margin: '0 auto 3rem', fontSize: '1.25rem', color: 'var(--accent)' }}>
+              {t('contact.subtitle')}
+            </p>
+            <div style={{ display: 'flex', justifyContent: 'center', gap: '3rem', flexWrap: 'wrap' }}>
+              <a href="mailto:hi@ertan.eu" className="hover-reveal" style={{ fontSize: '1.5rem', fontWeight: 700 }}>
+                hi@ertan.eu
+              </a>
+              <a href="https://wa.me/00447305906476" className="hover-reveal" style={{ fontSize: '1.5rem', fontWeight: 700 }}>
+                {t('contact.whatsapp')}
+              </a>
+            </div>
+          </div>
+        </Container>
+      </section>
+
+      <footer style={{ padding: '4rem 0', borderTop: '1px solid var(--border)', textAlign: 'center' }}>
+        <Container>
+          <p style={{ opacity: 0.5, fontSize: '0.875rem' }}>
+            © {new Date().getFullYear()} Ertan Yakub. {t('footer.rights')}
           </p>
-        </div>
-        <div className={styles.ctas}>
-          <a
-            className={styles.primary}
-            href="https://vercel.com/new?utm_source=create-next-app&utm_medium=appdir-template&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            <Image
-              className={styles.logo}
-              src="/vercel.svg"
-              alt="Vercel logomark"
-              width={16}
-              height={16}
-            />
-            Deploy Now
-          </a>
-          <a
-            className={styles.secondary}
-            href="https://nextjs.org/docs?utm_source=create-next-app&utm_medium=appdir-template&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Documentation
-          </a>
-        </div>
-      </main>
-    </div>
+        </Container>
+      </footer>
+    </main>
   );
 }
