@@ -32,7 +32,7 @@ export default function Home() {
               <a href="mailto:hi@ertan.eu" className="hover-reveal" style={{ fontSize: '1.5rem', fontWeight: 700 }}>
                 hi@ertan.eu
               </a>
-              <a href="https://wa.me/00447305906476" className="hover-reveal" style={{ fontSize: '1.5rem', fontWeight: 700 }}>
+              <a href="https://wa.me/447305906476" className="hover-reveal" style={{ fontSize: '1.5rem', fontWeight: 700 }}>
                 {t('contact.whatsapp')}
               </a>
             </div>
