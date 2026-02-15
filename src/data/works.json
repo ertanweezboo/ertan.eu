@@ -1,6 +1,18 @@
 {
     "en": [
         {
+            "id": "radio-free",
+            "title": "RadioFree",
+            "category": "Cross-platform Streaming App",
+            "description": "A modern streaming platform dedicated to Balkan music and global radio stations. Features include category-based discovery, geographic exploration, and a seamless cross-platform experience with Progressive Web App support.",
+            "role": "Product Owner and Developer",
+            "timeline": "2026 - Present",
+            "techStack": "Next.js, TypeScript, Zustand, i18next, Vercel, Supabase",
+            "link": "https://radiofree.vercel.app/",
+            "image": "/images/radiofree.png",
+            "color": "#E11D48"
+        },
+        {
             "id": "chalga-party",
             "title": "ChalgaParty",
             "category": "Web Application",
@@ -62,6 +74,18 @@
         }
     ],
     "tr": [
+        {
+            "id": "radio-free",
+            "title": "RadioFree",
+            "category": "Çok Platformlu Yayın Uygulaması",
+            "description": "Balkan müziğine ve küresel radyo istasyonlarına odaklanan modern bir yayın platformu. Kategori bazlı keşif, coğrafi keşif ve Progressive Web App desteği ile kesintisiz bir çoklu platform deneyimi sunar.",
+            "role": "Ürün Sahibi ve Geliştirici",
+            "timeline": "2026 - Günümüz",
+            "techStack": "Next.js, TypeScript, Zustand, i18next, Vercel, Supabase",
+            "link": "https://radiofree.vercel.app/",
+            "image": "/images/radiofree.png",
+            "color": "#E11D48"
+        },
         {
             "id": "chalga-party",
             "title": "ChalgaParty",
