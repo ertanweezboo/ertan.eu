@@ -3,7 +3,7 @@
 import { useLanguage } from '@/context/LanguageContext';
 import worksData from '@/data/works.json';
 import styles from './Works.module.css';
-import { ArrowLeft, ArrowRight, Code, Layout, Smartphone, Cpu, Box, Globe, Activity, Car, Gamepad2, Music } from 'lucide-react';
+import { ArrowLeft, ArrowRight, Code, Layout, Smartphone, Cpu, Box, Globe, Activity, Car, Gamepad2, Music, Zap, TrendingUp } from 'lucide-react';
 import { useRef, useState, useEffect } from 'react';
 import Link from 'next/link';
 import Container from '../UI/Container/Container';
@@ -28,7 +28,11 @@ const categoryIcons: { [key: string]: any } = {
     "iGaming Platform": <Gamepad2 size={18} />,
     "iGaming Platformu": <Gamepad2 size={18} />,
     "Cross-platform Streaming App": <Music size={18} />,
-    "Çok Platformlu Yayın Uygulaması": <Music size={18} />
+    "Çok Platformlu Yayın Uygulaması": <Music size={18} />,
+    "Fuel & EV Station Finder": <Zap size={18} />,
+    "Yakıt & EV Şarj İstasyonu Bulucu": <Zap size={18} />,
+    "AI-Powered Asset Valuation": <TrendingUp size={18} />,
+    "AI Destekli Varlık Değerleme": <TrendingUp size={18} />
 };
 
 export default function Works() {

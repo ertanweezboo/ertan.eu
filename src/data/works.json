@@ -1,6 +1,30 @@
 {
     "en": [
         {
+            "id": "fuelspy",
+            "title": "FuelSpy",
+            "category": "Fuel & EV Station Finder",
+            "description": "A comprehensive real-time fuel price and EV charging station finder for the UK. Features include precision radar for nearby stations, live price updates from major networks, and progressive web app support.",
+            "role": "Product Owner and Developer",
+            "timeline": "2026 - Present",
+            "techStack": "Next.js, TypeScript, Drizzle ORM, Turso (SQLite), Leaflet Maps, PWA, Next-Intl",
+            "link": "https://www.fuelspy.uk/",
+            "image": "/images/fuelspy.png",
+            "color": "#0284c7"
+        },
+        {
+            "id": "degerim",
+            "title": "degerim.com",
+            "category": "AI-Powered Asset Valuation",
+            "description": "A comprehensive AI-driven career and asset valuation platform for the Turkish market. Features include natural language property descriptions, real-time market data analysis via Serper.dev, and instant professional valuation reports.",
+            "role": "Product Owner and Developer",
+            "timeline": "2026 - Present",
+            "techStack": "Next.js, TypeScript, Supabase, Gemini AI, Serper.dev, Next-Intl, PWA",
+            "link": "https://degerim.com",
+            "image": "/images/degerim.png",
+            "color": "#C45C1A"
+        },
+        {
             "id": "radio-free",
             "title": "RadioFree",
             "category": "Cross-platform Streaming App",
@@ -8,7 +32,7 @@
             "role": "Product Owner and Developer",
             "timeline": "2026 - Present",
             "techStack": "Next.js, TypeScript, Zustand, i18next, Vercel, Supabase",
-            "link": "https://radiofree.vercel.app/",
+            "link": "https://radio-free.com/",
             "image": "/images/radiofree.png",
             "color": "#E11D48"
         },
@@ -31,9 +55,9 @@
             "description": "An AI-powered news platform that automatically aggregates, translates, and summarizes Bulgarian news for Turkish speakers.",
             "role": "Software Architect and Developer",
             "timeline": "2024 - Present",
-            "techStack": "Next.js, TypeScript, AI/LLM, Vercel",
-            "link": "https://bulgaristan-gundem.vercel.app/",
-            "image": "/images/bulgaristan_gundem.jpg",
+            "techStack": "Next.js, TypeScript, AI/LLM, Vercel, Android Studio, Firebase, Supabase",
+            "link": "https://bulgaristan-gundem.com/",
+            "image": "/images/bg.png",
             "color": "#1a365d"
         },
         {
@@ -75,6 +99,30 @@
     ],
     "tr": [
         {
+            "id": "fuelspy",
+            "title": "FuelSpy",
+            "category": "Yakıt & EV Şarj İstasyonu Bulucu",
+            "description": "Birleşik Krallık genelinde gerçek zamanlı akaryakıt fiyatlarını ve EV şarj istasyonlarını takip eden kapsamlı bir platform. Hassas radar özelliği ile en yakın istasyonları bulma, güncel fiyat takibi ve Progressive Web App desteği sunar.",
+            "role": "Ürün Sahibi ve Geliştirici",
+            "timeline": "2025 - Günümüz",
+            "techStack": "Next.js, TypeScript, Drizzle ORM, Turso (SQLite), Leaflet Maps, PWA, Next-Intl",
+            "link": "https://www.fuelspy.uk/",
+            "image": "/images/fuelspy.png",
+            "color": "#0284c7"
+        },
+        {
+            "id": "degerim",
+            "title": "degerim.com",
+            "category": "AI Destekli Varlık Değerleme",
+            "description": "Türkiye pazarı için geliştirilmiş, yapay zeka destekli kapsamlı kariyer, emlak ve varlık değerleme platformu. Doğal dil ile mülk tanımlama, Serper.dev ile gerçek zamanlı piyasa verisi analizi ve anlık profesyonel değerleme raporları sunar.",
+            "role": "Ürün Sahibi ve Geliştirici",
+            "timeline": "2025 - Günümüz",
+            "techStack": "Next.js, TypeScript, Supabase, Gemini AI, Serper.dev, Tailwind CSS, Next-Intl, PWA",
+            "link": "https://degerim.com",
+            "image": "/images/degerim.png",
+            "color": "#C45C1A"
+        },
+        {
             "id": "radio-free",
             "title": "RadioFree",
             "category": "Çok Platformlu Yayın Uygulaması",
@@ -82,7 +130,7 @@
             "role": "Ürün Sahibi ve Geliştirici",
             "timeline": "2026 - Günümüz",
             "techStack": "Next.js, TypeScript, Zustand, i18next, Vercel, Supabase",
-            "link": "https://radiofree.vercel.app/",
+            "link": "https://radio-free.com/",
             "image": "/images/radiofree.png",
             "color": "#E11D48"
         },
@@ -104,10 +152,10 @@
             "category": "AI Haber Portalı",
             "description": "Bulgaristan kaynaklı haberleri Türkçeye otomatik çeviren, özetleyen ve seslendiren yapay zeka destekli haber portalı.",
             "role": "Yazılım Mimarı ve Geliştirici",
-            "timeline": "2024 - Günümüz",
-            "techStack": "Next.js, TypeScript, AI/LLM, Vercel",
-            "link": "https://bulgaristan-gundem.vercel.app/",
-            "image": "/images/bulgaristan_gundem.jpg",
+            "timeline": "2025 - Günümüz",
+            "techStack": "Next.js, TypeScript, AI/LLM, Vercel, Android Studio, Firebase, Supabase",
+            "link": "https://bulgaristan-gundem.com/",
+            "image": "/images/bg.png",
             "color": "#1a365d"
         },
         {
