@@ -1,0 +1,19 @@
+<svg width="200" height="200" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <!-- Black Circle Background -->
+  <circle cx="100" cy="100" r="90" fill="black"/>
+
+  <!-- Stylized E Shape -->
+  <g fill="white">
+    <!-- Vertical bar -->
+    <rect x="65" y="60" width="20" height="80" rx="4"/>
+    
+    <!-- Top bar -->
+    <rect x="65" y="60" width="70" height="18" rx="4"/>
+    
+    <!-- Middle bar -->
+    <rect x="65" y="91" width="55" height="18" rx="4"/>
+    
+    <!-- Bottom bar -->
+    <rect x="65" y="122" width="70" height="18" rx="4"/>
+  </g>
+</svg>
